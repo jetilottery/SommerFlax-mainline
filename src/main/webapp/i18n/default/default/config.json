@@ -1,0 +1,12 @@
+{
+    "showHowToPlayOnLoad": false,
+    "autoPlayTileRevealInterval": 0.5,
+    "autoPlayTileGroupRevealInterval": 1,
+    "gameSelectSlideTransitionInterval": 0.5,
+    "gameSelectFadeTransitionInterval": 0.5,
+    "scratchMaskScratchedThreshold": 0.95,
+    "scratchRectWidth": 10,
+    "scratchRectHeight": 10,
+    "scratchRectOpacityThreshold": 0.3,
+    "scratchLerpDist": 10
+}
